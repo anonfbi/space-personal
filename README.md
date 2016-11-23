@@ -4,8 +4,6 @@ Space is a simple virtualization control panel written in Python with Flask. Spa
 
 This project is still in a relatively early stage of development, it is feature complete but there is still a fair amount of work to be done. With that being said, use at your own risk! 
 
-The projects official website is: [https://spacepanel.io] (DEAD WEBSITE)
-
 ---
 
 ## Current Version - 0.1.3
