@@ -4,7 +4,7 @@ Space is a simple virtualization control panel written in Python with Flask. Spa
 
 This project is still in a relatively early stage of development, it is feature complete but there is still a fair amount of work to be done. With that being said, use at your own risk! 
 
-The projects official website is: [https://spacepanel.io](https://spacepanel.io)
+The projects official website is: [https://spacepanel.io] (DEAD WEBSITE)
 
 ---
 
@@ -26,8 +26,9 @@ There were some endpoints that were not checking for login previously (before b2
 
 ## Help Support SpacePanel
 
-We just recently started an Indiegogo campaign - please consider [contributing](https://www.indiegogo.com/projects/spacepanel/x/9964461) if you like where SpacePanel is going!
+We just recently started an Indiegogo campaign - please consider [contributing] if you like where SpacePanel is going!
 
+(WE DON'T NEED THAT COMPAIGN ANYMORE)
 ---
 
 ## Requirements
@@ -38,7 +39,7 @@ We just recently started an Indiegogo campaign - please consider [contributing](
 * MongoDB
 * KVM (currently only support virtualization technology)
 * RabbitMQ (used by Celery)
-* Variety of python packages shown [here](https://github.com/silverp1/space-personal/blob/master/requirements.txt)
+* Variety of python packages shown [here](https://github.com/anonfbi/space-personal/blob/master/requirements.txt)
 
 ---
 
